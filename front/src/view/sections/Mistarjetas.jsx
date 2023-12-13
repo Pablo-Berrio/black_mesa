@@ -35,7 +35,7 @@ const Mistarjetas = ({ currentUser, actualizar }) => {
                           .replace(/\B(?=(\d{4})+(?!\d))/g, " ")}
                       </p>
                       <div className="contenedor-fecha-nombre">
-                        <div>
+                        <div className="fecha-nombre">
                           <p>
                             <span>{tarjeta.fechaVencimiento}</span>
                           </p>

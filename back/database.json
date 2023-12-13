@@ -16392,6 +16392,15 @@
       "cvv": 327,
       "fechaVencimiento": "05/30",
       "id": 6
+    },
+    {
+      "idUsuario": 7,
+      "cupoTarjeta": 48506040,
+      "nombreUsuario": "Dare Gouldthorpe",
+      "numeroTarjeta": 3174711373789666,
+      "cvv": 926,
+      "fechaVencimiento": "08/27",
+      "id": 7
     }
   ]
 }
